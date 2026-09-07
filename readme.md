@@ -1,6 +1,6 @@
 # Heart Disease Risk Prediction
 
-A machine learning project we built to predict whether a patient is at risk (`1`) or not at risk (`0`) of heart disease, based on their medical attributes.
+This project was built as part of the Introduction to Machine Learning course at EFREI Paris. It explores a classic binary classification problem: predicting whether a patient is at risk (1) or not at risk (0) of heart disease, based on a set of medical attributes.
 
 ## 1. Overview
 
@@ -89,4 +89,4 @@ We see this as an important takeaway rather than a flaw to hide — it's exactly
 
 ## 7. Team
 
-This project was built collaboratively as part of our machine learning coursework.
+This project was built collaboratively as part of our introduction to machine learning coursework at EFREI Paris.
